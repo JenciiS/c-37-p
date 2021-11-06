@@ -1,1 +1,1 @@
-# c-37-p
+# project-template-kangaroo-2
